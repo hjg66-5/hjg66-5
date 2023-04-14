@@ -3,6 +3,11 @@
   <div style="display:flex; justify-content:space-around;">
     <img src="https://github-readme-stats.vercel.app/api?username=hjg66-5&theme=solarized-dark&show_icons=true" width="50%" height="auto"/>
 <!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjg66-5&layout=compact" width="50%" height="auto"/> -->
+    <p>
+  <a href="https://blog.csdn.net/weixin_46344594"><img src="https://img.shields.io/static/v1?label=Blog&message=CSDN&color=red"/></a>
+  
+  <a href="https://space.bilibili.com/392833366"><img src="https://img.shields.io/static/v1?label=Video&message=Bilibili&color=cyan"/></a>
+  </p>
   </div>
 </div>
 
