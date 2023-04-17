@@ -1,11 +1,14 @@
+<div align="center">
 # 大家好，我是麦当。
 拥抱互联网，热爱创新，致力于探索更美好的未来！
-【右键我，在新标签页打开我】
-[CSDN Java博客](https://blog.csdn.net/weixin_46344594) ![CSDN Java博客](https://img.shields.io/static/v1?label=Java博客&message=CSDN&color=red)
-[juejin Go博客](https://juejin.cn/user/1157102527850871) ![juejin Go博客](https://img.shields.io/static/v1?label=Go博客&message=juejin&color=brightgreen)
-[leetcode 小镇做题家](https://leetcode-cn.com/u/hjg-hub/) ![leetcode 小镇做题家](https://img.shields.io/static/v1?label=小镇做题家&message=leetcode&color=cyan)
 
-[直接住在B站](https://space.bilibili.com/392833366) ![直接住在B站](https://img.shields.io/static/v1?label=直接住在B站&message=Bilibili&color=ff69b4)
-[是不是很酷](https://www.douyin.com/user/self) ![是不是很酷](https://img.shields.io/static/v1?label=是不是很酷&message=douyin&color=orange)
+【右键我，在新标签页打开我】
+
+![CSDN Java博客](https://img.shields.io/static/v1?label=Java博客&message=CSDN&color=red)
+![juejin Go博客](https://img.shields.io/static/v1?label=Go博客&message=juejin&color=brightgreen)
+![leetcode 小镇做题家](https://img.shields.io/static/v1?label=小镇做题家&message=leetcode&color=cyan)
+
+![直接住在B站](https://img.shields.io/static/v1?label=直接住在B站&message=Bilibili&color=ff69b4)
+![是不是很酷](https://img.shields.io/static/v1?label=是不是很酷&message=douyin&color=orange)
 
 ![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=hjg66-5&theme=solarized-dark&show_icons=true)
