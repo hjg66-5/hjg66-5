@@ -3,7 +3,7 @@
 ### 大家好，我是麦当。
 拥抱互联网，热爱创新，致力于探索更美好的未来！
 
-【鼠标🖱右键，在新标签页打开我】
+【鼠标🖱右键，在新标签页打开我！！！】
 
 [![图标](https://img.shields.io/static/v1?label=直接住在B站&message=Bilibili&color=ff69b4)](https://space.bilibili.com/392833366)
 [![图标](https://img.shields.io/static/v1?label=经常发沸点&message=juejin&color=brightgreen)](https://juejin.cn/user/1157102527850871/pins)
