@@ -5,7 +5,7 @@
 
 【鼠标🖱右键，在新标签页打开我】
 
-![https://blog.csdn.net/weixin_46344594?spm=1000.2115.3001.5343](https://img.shields.io/static/v1?label=Java博客&message=CSDN&color=red)
+[![](https://img.shields.io/static/v1?label=Java博客&message=CSDN&color=red)]([https://froan.cn](https://blog.csdn.net/weixin_46344594?spm=1000.2115.3001.5343))
 ![juejin Go博客](https://img.shields.io/static/v1?label=Go博客&message=juejin&color=brightgreen)
 ![leetcode 小镇做题家](https://img.shields.io/static/v1?label=小镇做题家&message=leetcode&color=cyan)
 
