@@ -5,7 +5,7 @@
 
 --> 👇鼠标🖱右键，在新标签页打开我。👇 ∇(・ω・∇)
 
-[![图标](https://img.shields.io/static/v1?label=直接住在B站&message=Bilibili&color=ff69b4)](https://space.bilibili.com/392833366)
+[![图标](https://img.shields.io/static/v1?label=直接住在B站&message=Bilibili&color=ff69b4)](https://space.bilibili.com/392833366/channel/series)
 [![图标](https://img.shields.io/static/v1?label=经常发沸点&message=juejin&color=brightgreen)](https://juejin.cn/user/1157102527850871/pins)
 [![图标](https://img.shields.io/static/v1?label=Java博客&message=CSDN&color=red&logo=github)](https://blog.csdn.net/weixin_46344594/category_10441485.html)
 [![图标](https://img.shields.io/static/v1?label=波粒二象性&message=douyin&color=orange)](https://www.douyin.com/user/self)
