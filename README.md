@@ -9,5 +9,7 @@
 [![图标](https://img.shields.io/static/v1?label=经常发沸点&message=juejin&color=brightgreen)](https://juejin.cn/user/1157102527850871/pins)
 [![图标](https://img.shields.io/static/v1?label=Java博客&message=CSDN&color=red&logo=github)](https://blog.csdn.net/weixin_46344594/category_10441485.html)
 [![图标](https://img.shields.io/static/v1?label=波粒二象性&message=douyin&color=orange)](https://www.douyin.com/user/MS4wLjABAAAAhiKenICk_ooJ-72paNQZ8pNn4-R5pKxgCeppmnacVbI)
+[![图标](https://img.shields.io/static/v1?label=小何同学-啊哈&message=douyin&color=orange)](https://www.xiaohongshu.com/user/profile/5bcebfdd06f9880001f76571)
+
 
 ![GitHub 统计信息](https://github-readme-stats.vercel.app/api?username=hjg66-5&theme=solarized-dark&show_icons=true)
